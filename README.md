@@ -9,3 +9,13 @@ function show() {
 show();
 console.log(a);
 console.log(b);
+
+
+
+
+
+
+
+
+
+https://github.com/sonyphoebeb/JavaScript-/blob/main/README.md
