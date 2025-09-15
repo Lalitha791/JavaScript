@@ -1,0 +1,21 @@
+let ppl = [];
+
+while (true) {
+  let name = prompt("Enter name (or type exit to stop): ");
+  
+  if (name === null || name.toLowerCase() === "exit") {
+    break; 
+  }
+
+  let age = prompt("Enter age: ");
+
+  // create new object each time
+  var person = {
+    name: name,
+    age: Number(age)
+  };
+
+  ppl.push(person);
+}
+
+console.log("All people:", ppl);
