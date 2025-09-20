@@ -1,0 +1,54 @@
+classes 
+
+forms 
+
+http get , post, update, delete put
+
+Search parms or  Query param reading 
+
+
+class
+
+class object creation
+
+form calling 
+js on click functions
+
+internal function usage 
+
+
+clarity 
+rest,
+copywithin
+
+let text = "1, 100 or 1000?";
+
+
+
+
+Movie Class 
+
+CreateMovie 
+
+1.get the values from the form which contains Movie Name ,Movie Description, Release Date, Genre ,Director ,Actor ,Language, Country , Budget .
+
+2 click on the submit button 
+
+3. store the values in the local storage 
+
+
+SearchMovie
+
+1.We need to e text field where it will act as search bar for Movies
+2.Get the values from local storage and search the object
+3.display as UL LI 
+
+
+AgeDiff
+calculate the difference between the release date and now 
+
+
+
+
+
+
