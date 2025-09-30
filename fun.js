@@ -1,3 +1,8 @@
+import promptSync from 'prompt-sync';
+const prompt = promptSync();
+
+
+
 function greetUser(name) {
     console.log("Hello, " + name + "!");
   }
